@@ -1,2 +1,2 @@
 # Git-RJ
-#Testing GittHub
+#Testing GitHub
